@@ -1,8 +1,12 @@
-# Untitled
+# Experiment page\`
 
 This is PAra 1
 
 > jmhvkhvkvhj
+
+some text here with a ref. \[^2\]
+
+
 
 {% hint style="info" %}
 ad la
@@ -21,6 +25,8 @@ ad la
   <iframe src="//www.youtube.com/embed/KMYrIi_Mt8A" allowfullscreen></iframe>
 </div>
 ```
+
+\[^2\] : Comment that is a note and contains info of the reference!
 
 
 
